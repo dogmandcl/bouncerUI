@@ -1,7 +1,4 @@
 {
-	"worldConfiguration" : {
-		"name": "doggo.dcl.eth"
-	  },
 	"ecs7": true,
 	"runtimeVersion": "7",
 	"display": {
